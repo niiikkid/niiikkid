@@ -1,45 +1,51 @@
-# Nikita
+# Никита
 
-**Full-stack / Product Engineer · 7+ years in software development**
+**Разработчик · 7 лет опыта**
 
-Разрабатываю цифровые продукты целиком: бизнес-логику, API, базы данных, web-интерфейсы, фоновые процессы, интеграции и развёртывание.
+Создаю сайты, сервисы и приложения с нуля — от идеи до запуска. Дорабатываю существующие проекты.
 
-Основной стек: **PHP / Laravel · Vue / Inertia · MySQL · Redis · Docker**  
-Также работаю с **Swift / SwiftUI · Kotlin / Jetpack Compose · Python · Chrome Extensions · OpenAI / DeepSeek**.
+Веду разработку целиком: разбираюсь в задаче, продумываю устройство системы, пишу код, подключаю внешние сервисы, проверяю и запускаю.
 
-## Что делаю
+Работал с платёжными системами, сервисами для бизнеса, приложениями для macOS и Android, Telegram-ботами и расширениями для браузера.
 
-- Финтех, P2P-платежи и криптопроцессинг.
-- Back-office и административные системы.
-- REST/H2H API, webhooks, очереди и внешние интеграции.
-- Web, macOS, Android и браузерные инструменты.
-- Self-hosted-продукты, Docker-развёртывание и техническая документация.
+Использую ИИ для написания кода, поиска ошибок и тестов. Технические решения и проверка результата — на мне. Языки и инструменты выбираю под задачу.
 
-Использую **AI-assisted development** в ежедневной работе: AI IDE и coding tools для анализа кода, реализации, рефакторинга, тестирования и документации. Это сокращает рутинную работу и оставляет больше времени на архитектуру, граничные случаи и проверку результата.
+## Примеры работ
 
-## Публичные проекты
-
-| Проект | Что это |
+| Проект | Что делает |
 | --- | --- |
-| [WL Traders](https://github.com/niiikkid/wl.traders.p2p) / [P2P Processing](https://github.com/niiikkid/p2p.processing) | P2P-процессинг: платежи, выплаты, мерчанты, трейдеры, споры, балансы, API и self-hosted-развёртывание. |
-| [SubsAnywhere](https://github.com/niiikkid/SubsAnywhere) | Chrome-расширение для субтитров, перевода и локального распознавания речи. |
-| [LLH](https://github.com/niiikkid/llh) | Нативный macOS-помощник: захват экрана, OCR, перевод, разбор текста и локальная история. |
-| [Payment System](https://github.com/niiikkid/payment.system) | Криптопроцессинг USDT/TRON: инвойсы, адреса, callbacks, API и административный кабинет. |
-| [P2P Bridge](https://github.com/niiikkid/p2p-app) | Android-клиент для сбора SMS/push-уведомлений и надёжной передачи их в процессинг. |
-| [MusicLyricsYouTube](https://github.com/niiikkid/MusicLyricsYouTube) | Лёгкое Chrome-расширение для показа текстов песен внутри YouTube и YouTube Music. |
+| [WL Traders](https://github.com/niiikkid/wl.traders.p2p) | Приём платежей, выплаты, учёт денег и личные кабинеты участников. |
+| [Payment System](https://github.com/niiikkid/payment.system) | Приём оплаты в USDT: счета, проверка поступлений и история операций. |
+| [SubsAnywhere](https://github.com/niiikkid/SubsAnywhere) | Субтитры и перевод поверх видео, распознавание речи на компьютере. |
+| [LLH](https://github.com/niiikkid/llh) | Приложение для macOS: распознавание и перевод текста с экрана. |
+| [P2P Bridge](https://github.com/niiikkid/p2p-app) | Android-приложение: передача SMS и уведомлений в платёжную систему. |
+| [WL Traders Bot](https://github.com/niiikkid/wl.traders.tg.bot) | Управление платежами и просмотр баланса через Telegram. |
 
-## Стек
+## Технологии
 
-**Backend:** PHP 8.3/8.4 · Laravel 11/12 · Python  
-**Frontend:** Vue 3 · Inertia.js · TypeScript / JavaScript  
-**Data:** MySQL · Redis · SQLite  
-**Infrastructure:** Docker · Nginx · Laravel Horizon  
-**Native:** Swift / SwiftUI · Kotlin / Jetpack Compose  
-**AI / Media:** OpenAI · DeepSeek · OCR · speech recognition
+<p>
+  <img src="https://img.shields.io/badge/PHP-24292F?style=for-the-badge&amp;logo=php&amp;logoColor=8993BE" alt="PHP" height="28" />
+  <img src="https://img.shields.io/badge/Laravel-24292F?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF2D20" alt="Laravel" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="28" />
+  <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&amp;logo=typescript&amp;logoColor=60A5FA" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Vue-24292F?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=4FC08D" alt="Vue" height="28" />
+  <img src="https://img.shields.io/badge/Inertia-24292F?style=for-the-badge&amp;logo=inertia&amp;logoColor=A78BFA" alt="Inertia.js" height="28" />
+  <img src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python" height="28" />
+  <img src="https://img.shields.io/badge/Swift%20%2F%20SwiftUI-24292F?style=for-the-badge&amp;logo=swift&amp;logoColor=F05138" alt="Swift / SwiftUI" height="28" />
+  <img src="https://img.shields.io/badge/Kotlin%20%2F%20Compose-24292F?style=for-the-badge&amp;logo=kotlin&amp;logoColor=A97BFF" alt="Kotlin / Jetpack Compose" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-24292F?style=for-the-badge&amp;logo=mysql&amp;logoColor=6DB4D9" alt="MySQL" height="28" />
+  <img src="https://img.shields.io/badge/Redis-24292F?style=for-the-badge&amp;logo=redis&amp;logoColor=FF4438" alt="Redis" height="28" />
+  <img src="https://img.shields.io/badge/SQLite-24292F?style=for-the-badge&amp;logo=sqlite&amp;logoColor=7FC7E8" alt="SQLite" height="28" />
+  <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Nginx-24292F?style=for-the-badge&amp;logo=nginx&amp;logoColor=55C57A" alt="Nginx" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-24292F?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" height="28" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-24292F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FBC02D" alt="Chrome Extensions" height="28" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-24292F?style=for-the-badge" alt="OpenAI API" height="28" />
+  <img src="https://img.shields.io/badge/DeepSeek%20API-24292F?style=for-the-badge" alt="DeepSeek API" height="28" />
+</p>
 
-## Контакты
+## Связаться
 
-Открыт к заказной разработке, развитию существующих продуктов и технически сложным задачам.
+Напишите, что нужно создать или доработать.
 
-**Telegram:** [@n1kkid](https://t.me/n1kkid)  
-**Email:** [niiikkid@gmail.com](mailto:niiikkid@gmail.com)
+[Telegram: @n1kkid](https://t.me/n1kkid) · [Почта](mailto:niiikkid@gmail.com) · [Kwork](https://kwork.ru/user/n1kkid)

@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/SQLite-24292F?style=for-the-badge&amp;logo=sqlite&amp;logoColor=7FC7E8" alt="SQLite" height="26" />
   <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" height="26" />
   <img src="https://img.shields.io/badge/Nginx-24292F?style=for-the-badge&amp;logo=nginx&amp;logoColor=55C57A" alt="Nginx" height="26" />
-  <img src="https://img.shields.io/badge/Tailwind%20%2F%20CSS-24292F?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" height="26" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-24292F?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=38BDF8" alt="Tailwind CSS" height="26" />
   <img src="https://img.shields.io/badge/Chrome%20Extensions-24292F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=FBC02D" alt="Chrome Extensions" height="26" />
   <img src="https://img.shields.io/badge/OpenAI%20API-24292F?style=for-the-badge" alt="OpenAI API" height="26" />
   <img src="https://img.shields.io/badge/DeepSeek%20API-24292F?style=for-the-badge" alt="DeepSeek API" height="26" />
